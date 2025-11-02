@@ -1,3 +1,4 @@
+"use client"
 import React from 'react'
 import { FloatingNav } from './ui/FloatingNavbar'
 import { FaHome } from 'react-icons/fa'

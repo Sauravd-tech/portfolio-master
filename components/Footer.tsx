@@ -1,4 +1,4 @@
-
+"use client"
 import ContactForm from "./ui/ContactForm";
 
 const Footer = () => {

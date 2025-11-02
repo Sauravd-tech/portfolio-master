@@ -34,7 +34,7 @@ export function CardDemo() {
 const Skeleton = () => {
   const scale = [1, 1.1, 1];
   const transform = ["translateY(0px)", "translateY(-4px)", "translateY(0px)"];
-  const sequence = [
+  const sequence:any= [
     [
       ".circle-1",
       {
